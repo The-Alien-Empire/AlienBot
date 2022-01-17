@@ -1,10 +1,10 @@
 {
-    "globalPrefix": "kc!",
-    "prefix": "kc!",
-    "mongoPath": "mongoURI",
+    "globalPrefix": "a!",
+    "prefix": "a!",
+    "mongoPath": "mongodb+srv://AlienAdmin:<AlienAdminPasswordo1k>@botcluster.xylme.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
     "TENORKEY": "TenorGIFKey",
     "version": "KC Bot - Version 1.0.7 (Beta)",
-    "botToken": "yourOWNbotToken",
+    "botToken": "ODAwMDg5ODEwNTI1MzU2MDcy.YANDsw.Q9hCJ_Vhwgc78pBhRss4AAjV8Kw",
     "embedIcon": "https://i.imgur.com/wNvajsi.png",
     "bannedWords": ["word1", "word2", "word3", "anotherWordHerelolidk"]
 }
