@@ -6,4 +6,7 @@
     "mongodb": "^4.2.2",
     "mongoose": "^6.1.2"
   }
+  "scripts": {
+    "start": "node your-script.js"
+}
 }
